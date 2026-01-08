@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm William Xing
+
+---
+
+* 📐Student researcher interested in machine learning and applied math
+* 📝Lead author of paper on using GNNs to predict arsenic water contamination, accepted to AAAI 2026 Workshop on AI for Environmental Science
+* 🧑‍💻Web developer for school and club projects
+* 📚Languages: Python, Javascript, Java, HTML/CSS
+* 🧠Experience With: NumPy, Pandas, Matplotlib, PyTorch, Scikit-learn, etc.
 
 <!--
 **williamxing1/williamxing1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
