@@ -1,7 +1,5 @@
 # 👋 Hi, I'm William Xing
 
----
-
 * 📐Student researcher interested in machine learning and applied math
 * 📝Lead author of paper on using GNNs to predict arsenic water contamination, accepted to AAAI 2026 Workshop on AI for Environmental Science
 * 🧑‍💻Web developer for school and club projects
